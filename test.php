@@ -4,4 +4,5 @@
 	print "hage";
 	print "hige";
 	print "huge";
+	print "hege";
 ?>
