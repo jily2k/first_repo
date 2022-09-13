@@ -5,4 +5,5 @@
 	print "hige";
 	print "huge";
 	print "hege";
+	print "foo";
 ?>
